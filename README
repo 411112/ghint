@@ -1,0 +1,3 @@
+for bash-scripts in data-sync.sh fill-list.sh follow-more.sh ; do
+	open && read && understand && check && run
+done
